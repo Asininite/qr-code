@@ -1,0 +1,42 @@
+
+body {
+    background-color: aliceblue;
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+
+}
+
+.container {
+    background-color: paleturquoise;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px rgba(0,0,0,1);
+    padding: 18px;
+    width: 320px;
+    text-align: center;
+}
+
+.container img{
+    
+    border-radius: 12px;
+    align-items: center;
+    width: 100%;
+}
+
+.container p {
+    font-size: medium;
+    margin: 20px 0 15px;
+}
+
+.container p_footnote{
+    font-size: medium;
+    margin: 10px 0 10px;
+}
+
+.container h{
+    font-size: large;
+    margin: 15px 0 15px;
+}
